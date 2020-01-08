@@ -1,0 +1,21 @@
+
+   !!!!||||||[[[[[[[Eyou moive center ]]]]]]]]]]]]]]|||||||!!!!!!!
+  |||| 
+  ||||                       MOVIE TYPE
+  ||||
+  ||||
+  ||||            1. Action
+  ||||
+  ||||            2. serise
+  ||||
+  ||||            3.Tragedy            
+  ||||
+  ||||            4.Documentery
+  ||||                       
+  ||||            5 Comedy                        
+  ||||
+  ||||            6.Romantic
+  ||||  
+  ||||
+  ||||                                               <-- Backspace 
+  ||||

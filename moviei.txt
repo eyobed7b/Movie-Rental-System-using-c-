@@ -1,0 +1,23 @@
+ 
+    !!!!!||||||[[[[[[[Eyou moive center ]]]]]]]]]]]]]]|||||||!!!!!!!
+   ||||                                                                   
+   ||||                MOVIE   INFORMATION                                   
+   ||||                                                                    
+   ||||             1.Movie Name                           
+   ||||                                                                    
+   ||||             2.Movie number                        
+   ||||                                                                    
+   ||||             3.Quantity                              
+   ||||                                                                    
+   ||||             4.First name                                       
+   ||||                                                                    
+   ||||             5.Last name                                          
+   ||||                                                                    
+   ||||             6.Phone no                                         
+   ||||                                                                     
+   ||||             7.ID no
+   ||||                                                                    
+   ||||                               
+   ||||                                                                    
+   ||||
+      

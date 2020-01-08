@@ -1,0 +1,24 @@
+ 
+    !!!!!||||||[[[[[[[ KDE moive center ]]]]]]]]]]]]]]|||||||!!!!!!!
+   ||||                                                                   
+   ||||                          HELP                                  
+   ||||                                                                    
+   |||| <[0]>  If you are taking the movie press 1                        
+   ||||                                                                    
+   |||| <[0]>  if you are returning the movie press 2                         
+   ||||                                                                    
+   |||| <[0]>  If you want to see the recorded lis press 3                            
+   ||||                                                                    
+   |||| <[0]>  If you want to go to setting  press 4                                    
+   ||||                                                                    
+   |||| <[0]>  If you need help press 5                                         
+   ||||                                                                    
+   |||| <[0]>  If you want to now about us  press 6    
+   ||||               
+   |||| <[0]>  if you want to search data press 7                                            
+   ||||                                                                     
+   |||| <[0]>  If you want to see new movie trailers press 8
+   ||||                                                                    
+   |||| <[0]>  if you want to vist our web site press 9                              
+   ||||                                                                    
+   |||| <[0]>  if you want to see income and total tax press ENTER

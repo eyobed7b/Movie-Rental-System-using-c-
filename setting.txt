@@ -1,0 +1,21 @@
+
+   !!!!||||||[[[[[[[Eyou moive center ]]]]]]]]]]]]]]|||||||!!!!!!!
+  |||| 
+  ||||                        SETTING
+  ||||
+  ||||
+  ||||            1. consol size
+  ||||
+  ||||            2. consol color
+  ||||
+  ||||            3. Data sorting             
+  ||||
+  ||||            4. Data modification
+  ||||                       
+  ||||            5. Data formating                  
+  |||| 
+  ||||            6. Add or remove trailer            
+  ||||  
+  ||||            
+  ||||                                              <-- Backspace 
+  ||||

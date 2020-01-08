@@ -1,0 +1,24 @@
+
+   !!!!!||||||[[[[[[[ KDE moive center ]]]]]]]]]]]]]]|||||||!!!!!!!
+   ||||                                                                   
+   ||||                      Menu                                     
+   ||||                                                                    
+   ||||             1.Taking  movie                            
+   ||||                                                                    
+   ||||             2.Returning movie                         
+   ||||                                                                    
+   ||||             3.Recorded list                              
+   ||||                                                                    
+   ||||             4.Setting                                        
+   ||||                                                                    
+   ||||             5.Help                                    
+   ||||                                                                    
+   ||||             6.About                                           
+   ||||                                                                     
+   ||||             7.search                    ESC = exit 
+   ||||                                                                    
+   ||||             8.Trailers                                    
+   ||||             
+   ||||             9.Lists of movies on our website                                                        
+   ||||
+                    ENTER = income and total tax 

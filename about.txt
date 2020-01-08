@@ -1,0 +1,24 @@
+ 
+    !!!!!||||||[[[[[[[ KDE moive center ]]]]]]]]]]]]]]|||||||!!!!!!!
+   ||||                                                                   
+   ||||                      ABOUT                                     
+   ||||                                                                    
+   ||||      This program is designed to  recorde data                         
+   ||||       which is in the movie rental system.                                                          
+   ||||                                    
+   ||||       Made by AASTU 1st year software engineering                                                         
+   ||||       students  group 6:-                               
+   ||||          
+   ||||         Developers name                              id                                                      
+   ||||   
+   ||||   [::] Eyobed Feleke                            ETS   0491/10       
+   ||||   [::]                                                               
+   ||||   [::]                                                   
+   ||||   [::]                                                                 
+   ||||   [::]                                                 
+   ||||   [::]                                                                    
+   ||||   [::]        
+   ||||                                                                 
+   ||||                               
+   ||||                                                                    
+   ||||
